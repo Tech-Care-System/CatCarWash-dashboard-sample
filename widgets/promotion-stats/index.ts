@@ -1,0 +1,1 @@
+export { PromotionStats } from './ui/PromotionStats';
