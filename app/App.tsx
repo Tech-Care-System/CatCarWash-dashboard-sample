@@ -23,7 +23,7 @@ const App: React.FC = () => {
           {/* Header */}
           <header className="mb-8 flex justify-between items-end">
             <div>
-              <h1 className="text-2xl font-bold text-white tracking-tight">CATCARWASH</h1>
+              <h1 className="text-2xl font-bold text-white tracking-tight">Car Wash Dashboard</h1>
               <p className="text-text-secondary text-sm mt-1">IoT Platform & Franchise Management</p>
             </div>
             <div className="flex items-center space-x-3">
@@ -51,7 +51,7 @@ const App: React.FC = () => {
           {/* Footer */}
           <footer className="mt-12 pt-6 border-t border-[#222] text-center">
             <p className="text-xs text-[#444]">
-              CATCARWASH IoT Platform v1.0.2 &copy; 2024 All Rights Reserved.
+              Car Wash IoT Platform v1.0.2 &copy; 2024 All Rights Reserved.
             </p>
           </footer>
         </div>

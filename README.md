@@ -1,4 +1,4 @@
-# CATCARWASH IoT Dashboard
+# Car Wash IoT Dashboard
 
 A premium dark-mode IoT monitoring dashboard for coin-operated car wash franchises.
 
